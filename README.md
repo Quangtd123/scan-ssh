@@ -23,10 +23,24 @@ SSH Scanner là một công cụ mã nguồn mở giúp quét và kiểm tra tí
 ## Installation
 
 1. Clone repository này về máy của bạn:
+use python3 
 
 ```bash
 https://github.com/Quangtd123/scan-ssh.git
+pip install paramiko
 cd scan-ssh
 ulimit -n 999999;ulimit -u999999; zmap -p80  -q -v0 -T5 -B1000M | python rdp.py pass.txt 50 out.txt
 
- 
+*******************************
+*                             *
+*    Welcome to kami     *
+*                             *
+*******************************
+
+Contact Me:
+Email: quangtd031@gmail.com
+Zalo Chat: [Click here to chat on Zalo](https://zalo.me/g/lzlrlz963)
+
+Version: 1.0
+
+
