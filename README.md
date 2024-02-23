@@ -1,9 +1,15 @@
 # scan-ssh
+                                                                                                        
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/Cosmic-Mirai?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/hoaan1995/Cosmic-Mirai?color=%239999FF&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/license/hoaan1995/Cosmic-Mirai?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
- 
+</br>
+ *******************************
+*                             *
+*    Welcome to kami     *
+*                             *
+*******************************    
 </p>
 # SSH Scanner
 
@@ -30,17 +36,14 @@ https://github.com/Quangtd123/scan-ssh.git
 pip install paramiko
 cd scan-ssh
 ulimit -n 999999;ulimit -u999999; zmap -p80  -q -v0 -T5 -B1000M | python rdp.py pass.txt 50 out.txt
+```
 
-*******************************
-*                             *
-*    Welcome to kami     *
-*                             *
-*******************************
 
 Contact Me:
-Email: quangtd031@gmail.com
-Zalo Chat: [Click here to chat on Zalo](https://zalo.me/g/lzlrlz963)
-
+Email: quangtd031@gmail.com </br>
+Zalo Chat: <a href="https://zalo.me/g/lzlrlz963">Click here to chat on Zalo</a></br>
+discode chat :  <a href="https://discord.gg/7XqJrM2n">Click here to discode Zalo</a></br>
 Version: 1.0
+
 
 
