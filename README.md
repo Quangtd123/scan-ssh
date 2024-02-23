@@ -10,10 +10,12 @@
 *    Welcome to kami     *
 *                             *
 *******************************    
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/009/119/164/non_2x/ssh-logo-ssh-letter-ssh-letter-logo-design-initials-ssh-logo-linked-with-circle-and-uppercase-monogram-logo-ssh-typography-for-technology-business-and-real-estate-brand-vector.jpg" alt="SSH Scanner Logo" style="width: 300px;">
 </p>
+
 # SSH Scanner
 
-![SSH Scanner Logo](https://static.vecteezy.com/system/resources/previews/009/119/164/non_2x/ssh-logo-ssh-letter-ssh-letter-logo-design-initials-ssh-logo-linked-with-circle-and-uppercase-monogram-logo-ssh-typography-for-technology-business-and-real-estate-brand-vector.jpg)
 
 ## Overview
 
@@ -35,7 +37,7 @@ use python3
 https://github.com/Quangtd123/scan-ssh.git
 pip install paramiko
 cd scan-ssh
-ulimit -n 999999;ulimit -u999999; zmap -p80  -q -v0 -T5 -B1000M | python rdp.py pass.txt 50 out.txt
+ulimit -n 999999;ulimit -u999999; zmap -p22  -q -v0 -T5 -B1000M | python rdp.py pass.txt 50 out.txt
 ```
 
 
