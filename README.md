@@ -7,7 +7,7 @@
 </p>
 # SSH Scanner
 
-![SSH Scanner Logo](https://link_to_your_logo.png)
+![SSH Scanner Logo]([https://link_to_your_logo.png](https://static.vecteezy.com/system/resources/previews/009/119/164/non_2x/ssh-logo-ssh-letter-ssh-letter-logo-design-initials-ssh-logo-linked-with-circle-and-uppercase-monogram-logo-ssh-typography-for-technology-business-and-real-estate-brand-vector.jpg))
 
 ## Overview
 
