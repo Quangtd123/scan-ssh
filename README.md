@@ -25,9 +25,8 @@ SSH Scanner là một công cụ mã nguồn mở giúp quét và kiểm tra tí
 1. Clone repository này về máy của bạn:
 
 ```bash
-git clone https://github.com/your_username/ssh-scanner.git
-
-
+https://github.com/Quangtd123/scan-ssh.git
+cd scan-ssh
 ulimit -n 999999;ulimit -u999999; zmap -p80  -q -v0 -T5 -B1000M | python rdp.py pass.txt 50 out.txt
 
  
